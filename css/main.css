@@ -1,0 +1,70 @@
+/*
+	Inserta tu CSS aqui
+*/
+* {
+	box-sizing: border-box;
+	margin: 0;
+	font-family: "Open Sans";
+	color: #000;
+}
+
+.fondo {
+	width: 100%;
+	height: 800px;
+	background-image: url("../img/grupal.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.boton {
+	margin: 100px;
+	background-color: #F9A91A;
+	border: 0;
+	width: 100px;
+	height: 40px;
+	border-radius: 5px;
+}
+
+ a {
+	text-decoration: none;
+	font-size: 18px;
+ }
+
+.img-logo .logo {
+	width: 80%;
+	margin: 100px;
+}
+
+.menu {
+	float: left;
+	margin-top: 100px;
+	padding-left: 10px;
+}
+
+.fondo-fotos {
+	background-color: #FFFFFF;
+}
+
+.foto {
+	padding-top: 20px;
+	margin-bottom: 20px;
+}
+
+.footer {
+	height: 60px;
+	clear: both;
+	background-color: #484646;
+	padding: 20px;
+	padding-left: 50px;
+}
+
+.color {
+	color: #FFFFFF;
+}
+
+.bold {
+	font-weight: bold;
+	display: inline-block;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
